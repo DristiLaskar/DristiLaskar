@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Dristi Laskar</h1>
 <h3 align="center">"Passionate tech enthusiast, dedicated athlete, creative artist and frontend developer."</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dristilaskar&label=Profile%20views&color=0e75b6&style=flat" alt="dristilaskar" /> </p>
+<img align="left" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw1mMzuxJsnGW4lMWDJqJ9mb&ust=1720354846343000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODohLizkocDFQAAAAAdAAAAABAJ">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dristilaskar&label=Profile%20views&color=0e75b6&style=flat" alt="dristilaskar" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://dristilaskar.github.io/Portfolio/](https://dristilaskar.github.io/Portfolio/)
 
