@@ -1,27 +1,223 @@
-![logo](https://github.com/DristiLaskar/DristiLaskar/blob/main/Black%20and%20White%20Trendy%20Gamer%20Youtube%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Dristi Laskar</h1>
-<h3 align="center">"Passionate tech enthusiast, dedicated athlete, creative artist and frontend developer."</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dristilaskar&label=Profile%20views&color=0e75b6&style=flat" alt="dristilaskar" /> </p>
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://raw.githubusercontent.com/DristiLaskar/DristiLaskar/main/header.svg" alt="Dristi Laskar - animated banner" />
 
-- 👨‍💻 All of my projects are available at [https://dristilaskar.github.io/Portfolio/](https://dristilaskar.github.io/Portfolio/)
+<div align="center">
 
-- 📫 How to reach me **dlaskar1703@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w40wN1Av9zm3ErHQ689q_LpSU5T39nNT/view?usp=sharing](https://drive.google.com/file/d/1w40wN1Av9zm3ErHQ689q_LpSU5T39nNT/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dristi-laskar-7ab41728a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dristi-laskar-7ab41728a" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61550252293802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61550252293802" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dristi_sagar_laskar/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dristi_sagar_laskar/?hl=en" height="30" width="40" /></a>
+<p>
+  <img src="https://hits.sh/github.com/DristiLaskar.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/DristiLaskar?style=for-the-badge&logo=github&color=8957e5" alt="Followers" />
+  <img src="https://img.shields.io/badge/NIT_Silchar-ECE_'27-00f7ff?style=for-the-badge&labelColor=0d1117" alt="NIT Silchar" />
+  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Collabs-2ea44f?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://dristilaskar.github.io/DristiLaskar"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-00f7ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/dristi-laskar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dlaskar1703@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/dristi_sagar_laskar/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dristilaskar&show_icons=true&locale=en&layout=compact" alt="dristilaskar" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dristilaskar&show_icons=true&locale=en" alt="dristilaskar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dristilaskar&" alt="dristilaskar" /></p>
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```python
+class Dristi:
+    def __init__(self):
+        self.education = "B.Tech ECE @ NIT Silchar (2023–2027)"
+        self.cgpa      = 8.65
+        self.research  = "IIT Guwahati — Summer Research Intern '26"
+        self.builds    = ["RAG pipelines", "Agentic AI",
+                          "Full-stack apps", "Edge-ready ML"]
+        self.also      = ["VLSI & hardware verification",
+                          "Athlete 🏃", "Artist 🎨"]
+
+    def mission(self):
+        return "Turn signals, data & ideas into systems that ship 🚀"
+```
+
+</td>
+<td width="42%" valign="top">
+
+- 🔬 Researching **ML-based fault diagnosis** and **Forksheet FET** devices
+- 🤖 Building **RAG / GraphRAG / LangGraph** systems
+- ⚡ Optimising models for **edge deployment**
+- 🧮 **300+** DSA problems solved
+- 📫 Open to **internships**, research & collaborations
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Experience
+
+<div align="center">
+
+### 🏛️ Summer Research Intern — **IIT Guwahati** &nbsp;|&nbsp; *May – Jul 2026*
+
+**Induction Motor Rotor Bar Fault Diagnosis**
+
+</div>
+
+| | Highlight |
+|:--:|:--|
+| 🖼️ | Encoded **1D vibration signals into GASF/GADF images** and benchmarked 4 CNN backbones (ResNet50, DenseNet121, InceptionV3, MobileNetV2) with transfer learning |
+| 🎯 | **97.50% test accuracy** with **CBAM-attention DenseNet121**, beating a Vision Transformer baseline (96.25%) across 5 motor health states |
+| 📉 | **30% pruning + INT8 quantization** shrank the model **74%** (27.88 MB → 7.34 MB) with **zero accuracy loss**, ready for edge deployment |
+
+<div align="center">
+
+| 97.50% | 74% | 5 | 4 |
+|:--:|:--:|:--:|:--:|
+| Test accuracy | Size reduction | Motor health states | CNN backbones tested |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 [AURA](https://github.com/DristiLaskar) — AI-Driven Disease Prediction & Guidance
+> Symptoms → **1,167 conditions** via semantic search → grounded guidance with RAG.
+
+- 🔎 Semantic matching with **Google embeddings + FAISS**
+- 🧠 **LangChain + Gemini** RAG pipeline for grounded prevention, remedy and risk guidance, with disk-persisted caching
+- 🔐 Hardened REST API: input validation, per-IP rate limiting, configurable CORS
+- ✨ Responsive **Framer Motion** UI with a canvas-rendered animated assistant
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+
+---
+
+### 🧭 [CodeAtlas](https://github.com/DristiLaskar) — Codebase Intelligence System
+> Ask natural-language questions about any GitHub repo, **locally and privately**, with file and line citations.
+
+- 🕸️ **RAG + GraphRAG (NetworkX)** powered by **Ollama** LLMs
+- 🔀 **Hybrid search**: ChromaDB vectors + BM25 fused with **Reciprocal Rank Fusion**
+- 🤖 **LangGraph agent** with tool calling, tuned for **CPU-only** inference
+- ⚡ React + Tailwind frontend with **SSE token streaming**, FastAPI backend, **Docker Compose**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 📉 [AI Risk Manager](https://github.com/DristiLaskar) — Client Churn & Revenue Risk Platform
+> Scores every client's **90-day churn risk** and **revenue at risk**.
+
+- 🌲 **Random Forest** on time-based snapshots (no data leakage): **0.76 AUC vs 0.55 baseline**
+- 📈 3-month time-series forecast
+- 💬 **RAG assistant** (TF-IDF retrieval + Groq / Gemini) answering with cited sources
+- ⚙️ React frontend + FastAPI REST backend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+<div align="center">
+  <a href="https://github.com/DristiLaskar?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-→-8957e5?style=for-the-badge&logo=github" alt="All repos" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,react,nodejs,express,tailwind&theme=dark" alt="Languages and frontend" />
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb,postgres,docker,git,github,vscode,linux&theme=dark" alt="Backend and tools" />
+
+</div>
+
+| Area | Stack |
+|:--|:--|
+| 💻 **Languages** | C++, Python, SQL |
+| 🌐 **Frontend** | HTML5, CSS3, JavaScript, React |
+| ⚙️ **Backend & APIs** | FastAPI, WebSockets, Node.js, Express.js |
+| 🗄️ **Databases** | MySQL, MongoDB, PostgreSQL, ChromaDB |
+| 🧠 **AI / ML** | scikit-learn, RAG, LangChain, LangGraph, Vector Search, NumPy, Pandas |
+| 🧰 **Tools** | Git, GitHub, VS Code, Jupyter, Docker, Chart.js, Leaflet.js |
+| 📚 **Core CS** | Data Structures & Algorithms, OOP, DBMS |
+
+---
+
+## 🏅 Achievements & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Achievements
+- 📡 **5G Hackathon, Zonal Finalist**: top team among **100+**, with an IoT health monitor
+- 🔤 **I.D.E.A. Hackathon, Team Lead**: led 4 people to prototype a **real-time Braille converter**
+- 🧮 **300+ DSA problems** on LeetCode & GeeksforGeeks
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Certifications
+- 🗃️ **SQL (Advanced & Intermediate)**: HackerRank, Aug 2026
+- 🔬 **Summer Research Internship**: IIT Guwahati, Jul 2026
+- 🌐 **Intro to IoT & Digital Transformation**: Cisco, Aug 2025
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DristiLaskar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DristiLaskar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=DristiLaskar&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+
+<br><br>
+
+<img width="100%" src="https://ghchart.rshah.org/00f7ff/DristiLaskar" alt="Contribution graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DristiLaskar/DristiLaskar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DristiLaskar/DristiLaskar/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DristiLaskar/DristiLaskar/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Open to **internships, research collaborations and ambitious projects** in AI systems, full-stack development and hardware.
+
+<a href="mailto:dlaskar1703@gmail.com"><img src="https://img.shields.io/badge/📫_dlaskar1703@gmail.com-0d1117?style=for-the-badge" alt="Email me" /></a>
+<a href="https://dristilaskar.github.io/DristiLaskar"><img src="https://img.shields.io/badge/🌐_Portfolio-00f7ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
+
+<br><br>
+
+<i>"Code like an engineer, train like an athlete, create like an artist."</i> ✨
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/DristiLaskar/DristiLaskar/main/footer.svg" alt="Animated heartbeat footer" />
